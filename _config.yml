@@ -9,20 +9,20 @@ site_heading: >
     AVL <span class="faded"> website</span>
 
 email: funpluscharity@gmail.com
-author: volleyballleague
+author: Sri Bala Bharati Atlanta Volleyball League
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    Atlanta Volleyball League, Where fun leads to charity.
+    Sri Bala Bharati Atlanta Volleyball League, Where fun leads to charity.
 
 # This will what will show against &copy; in the footer
-copyright: accent
+copyright: Atlanta Volleyball League
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: true         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-      Atlanta Volleyball League, Where fun leads to charity.
+      Sri Bala Bharati Atlanta Volleyball League. Where fun leads to charity!
 
 permalink: /:title.html
 

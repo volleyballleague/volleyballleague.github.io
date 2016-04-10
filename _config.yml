@@ -1,6 +1,6 @@
 # User Settings | Edit there as per required
 
-title: Where fun leads to charity
+title: Atlanta Volleyball League. Where fun leads to charity!
 url: "http://volleyballleague.github.io"
 baseurl: ""
 
@@ -9,11 +9,11 @@ site_heading: >
     AVL <span class="faded"> website</span>
 
 email: funpluscharity@gmail.com
-author: Sri Bala Bharati Atlanta Volleyball League
+author: Atlanta Volleyball League
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    Sri Bala Bharati Atlanta Volleyball League, Where fun leads to charity.
+    Sri Bala Bharati Atlanta Volleyball League. Where fun leads to charity!
 
 # This will what will show against &copy; in the footer
 copyright: Atlanta Volleyball League
@@ -40,7 +40,7 @@ about_footer: true
 
 twitter_username: yaravind
 github_username: volleyballleague
-facebook_id: yaravind
+facebook_id: AtlantaVolleyballLeague
 
 favicon: true
 favicon_location: "images/favicon.ico"
@@ -51,8 +51,8 @@ paginate_path: "/page/:num"
 tracking_id: UA-76197140-1 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "images/accent.png" # This will show in facebook thumbnails
-twitter_image: "http://ankitsultana.me/images/accent.png?1234" # This will show in twitter cards
+og_image: "images/avl.jpg" # This will show in facebook thumbnails
+twitter_image: "https://pbs.twimg.com/profile_images/680871895370215424/_klEpKwS_400x400.jpg" # This will show in twitter cards
 
 ####################################
 ####################################
